@@ -1,11 +1,10 @@
-# Ins Server Browser
-Insurgency(2014) 服务器浏览器 Beta
+# Insurgency(2014) 创意工坊修复工具
 
 #### 版本
-Beta v0.1.6
+Beta v0.2.3
 
 #### 功能
-1、x社区服务器浏览器
-<br>2、steam服务器浏览器
+1、steam服务器浏览器
+<br>2、x社区服务器浏览器
 <br>3、点击速率测试工具
 <br>4、创意工坊检测修复工具
