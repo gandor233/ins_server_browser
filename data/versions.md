@@ -1,1 +1,1 @@
-{"current_version": "0.2.6", "minimum_version": "0.2.4"}
+{"current_version": "0.2.8", "minimum_version": "0.2.4"}
